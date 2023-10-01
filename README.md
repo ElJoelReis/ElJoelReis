@@ -7,7 +7,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on [AlexusRP](https://alexus.pt) and [WebTejo](https://webtejo.pt)  <br>🌱 I’m currently learning on how to work with Lua and basics of React<br>💬 Ask me about<br>⚡ Fun fact: I use tabs (with 4 spaces) over regular spaces
+🔭 I’m currently working on [Alexus](https://alexus.pt) and [WebTejo](https://webtejo.pt)  <br>🌱 I’m currently learning on how to work with Lua and basics of React<br>💬 Ask me about<br>⚡ Fun fact: I use tabs (with 4 spaces) over regular spaces
 
 
 ## 🌐 Socials:
